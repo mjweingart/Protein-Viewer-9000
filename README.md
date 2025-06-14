@@ -2,7 +2,7 @@
 This is a lightweight Python application that fetches and displays Alphafold-predicted protein structures in an interactive 3Dmol.js viewer, from an entered UniProt ID.
 
 ## Instructions
-- Enter any UniProt ID 9case doesn't matter)
+- Enter any UniProt ID (case doesn't matter)
 - Select the style
 - Submit
 
